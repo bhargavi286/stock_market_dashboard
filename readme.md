@@ -23,3 +23,6 @@ pip install -r requirements.txt
 2. Run the app
 
 streamlit run app.py"# stock-market-dashboard" 
+
+
+LIVE DASHBOARD : https://stockmarketdashboard-ndhccq2ljyilyqmtwfqgaq.streamlit.app/
