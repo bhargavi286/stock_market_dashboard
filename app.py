@@ -4,10 +4,10 @@ import pandas as pd
 import plotly.graph_objects as go
 
 
-st.set_page_config(page_title="Stock Market Dashboard", page_icon="📈", layout="wide")
+st.set_page_config(page_title="Stock Market Dashboard", page_icon=" ", layout="wide")
 
 
-st.markdown("<h1 style='text-align:center; color:#00ADB5;'>📊 Real-Time Stock Market Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align:center; color:#00ADB5;'> Real-Time Stock Market Dashboard</h1>", unsafe_allow_html=True)
 
 
 st.sidebar.header("Select Company")
